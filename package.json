@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node src/server.js",
-    "dev": "nodemon src/server.js"
+    "dev": "nodemon src/server.js",
+    "check:db": "node src/scripts/check-db.js"
   },
   "repository": {
     "type": "git",
@@ -22,6 +23,11 @@
   "dependencies": {
     "dotenv": "^18.0.9",
     "express": "^5.3.0",
-    "nodemon": "^3.1.14"
+    "nodemon": "^3.1.14",
+    "pg": "^8.23.1"
+  },
+  "devDependencies": {
+    "dotenv-cli": "^11.1.0",
+    "node-pg-migrate": "^9.0.0"
   }
 }
