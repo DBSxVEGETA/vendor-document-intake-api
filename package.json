@@ -8,7 +8,8 @@
     "start": "node src/server.js",
     "dev": "nodemon src/server.js",
     "check:db": "node src/scripts/check-db.js",
-    "db:migrate": "dotenv -e .env -- node-pg-migrate up -m migrations"
+    "db:migrate": "dotenv -e .env -- node-pg-migrate up -m migrations",
+    "db:seed": "node src/scripts/seed.js"
   },
   "repository": {
     "type": "git",
