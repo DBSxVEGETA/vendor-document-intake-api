@@ -1,0 +1,15 @@
+INVOICE
+
+Vendor: Northstar Digital Solutions
+Invoice Number: NDS-INV-7781
+Date: 2026-10-24
+
+Bill To: Vendor Document Intake API
+Description: Cloud integration and support services
+Quantity: 1
+Unit Price: 28750.00
+Total: 28750.00
+Currency: INR
+
+Payment Terms: Net 30 days
+Notes: Fictional sample invoice created for API testing.

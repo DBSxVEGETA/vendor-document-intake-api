@@ -1,0 +1,15 @@
+INVOICE
+
+Vendor: ABC Technologies
+Invoice Number: INV-2026-101
+Date: 2026-10-20
+
+Bill To: Vendor Document Intake API
+Description: Software development services
+Quantity: 1
+Unit Price: 15000.50
+Total: 15000.50
+Currency: INR
+
+Payment Terms: Net 30 days
+Notes: This is a fictional sample invoice created for API testing.

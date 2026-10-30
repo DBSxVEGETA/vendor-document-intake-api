@@ -1,0 +1,15 @@
+INVOICE
+
+Vendor: BluePeak Office Supplies Pvt. Ltd.
+Invoice Number: BPOS-2026-204
+Date: 2026-10-22
+
+Bill To: Vendor Document Intake API
+Description: Office furniture and stationery
+Quantity: 4
+Unit Price: 4250.00
+Total: 17000.00
+Currency: INR
+
+Payment Terms: Net 15 days
+Notes: Fictional sample invoice created for API testing.

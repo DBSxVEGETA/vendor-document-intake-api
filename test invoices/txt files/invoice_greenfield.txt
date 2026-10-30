@@ -1,0 +1,15 @@
+INVOICE
+
+Vendor: Greenfield Packaging Works
+Invoice Number: GPW-26-0915
+Date: 2026-10-25
+
+Bill To: Vendor Document Intake API
+Description: Corrugated packaging materials
+Quantity: 150
+Unit Price: 42.50
+Total: 6375.00
+Currency: INR
+
+Payment Terms: Due on receipt
+Notes: Fictional sample invoice created for API testing.
