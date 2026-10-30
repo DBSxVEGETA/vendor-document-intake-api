@@ -67,7 +67,7 @@ src/
     auth/
     documents/
       extractors/
-    reports/                 # if implemented
+    reports/
     webhooks/
       payment/
   routes/
